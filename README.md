@@ -34,7 +34,7 @@ This repository contains the competition entries, including results, source code
     └── README.md
 ```
 
-# Usage
+## Usage
 
 Each competition year's folder contains three subfolders:
 
@@ -44,6 +44,6 @@ Each competition year's folder contains three subfolders:
 - `Results.xlsx`: Contains the statistical results and performance metrics from the competition entries.
 - `Report.pdf`: This report introduces the competition, presents final results, and describes the top three methodologies.
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to all the participants and organizers of the IEEE CEC competitions on Multiobjective Neural Architecture Search. 
